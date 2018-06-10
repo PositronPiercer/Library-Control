@@ -1,0 +1,176 @@
+#hd{font-family: 'Questrial', sans-serif;
+color:#adaec9;
+}
+
+#issued_table{
+	
+	border:none;
+	outline:none;
+	position:fixed;
+	display:block;
+	margin:auto;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align:center;
+}
+.sclm{
+	padding-top:14px;
+	
+	
+}
+
+
+h1{position:fixed;
+width:120%;
+padding-top:1%;
+padding-left:1%;
+padding-bottom:0.7%;
+margin:-1%;
+
+border-bottom:1px #e3e7ed solid;
+box-shadow: 0px 2px 4px #adadb2;}
+#cframe{background-color:#edf3ff;
+border:none;
+overflow:none;
+outline:none;
+display:none;
+box-shadow: 0px 2px 5px #9c9ca3;
+	position:fixed;
+	left:30%;
+	top:10%;
+}
+
+h2{
+
+
+font-family: 'Lato', sans-serif;
+color:#5165e2;
+border:none;
+width:100}
+.input{
+border:none;
+color:#000000;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+#issue{position:fixed;
+padding-left:3px;
+background-color:#dbdbff;
+top:40%;
+display:none;
+width:300;
+box-shadow: 1px 1px 3px #9c9ca3;}
+
+ #return{
+border:none;;
+display:none;
+font-family: 'Josefin Sans', sans-serif;
+	text-align:center;
+top:10%;
+left:0.1%;
+position:fixed;
+width:20%;
+height:27%;}
+
+ .field{
+	 background-color:white;
+	 font-family: 'Mukta Vaani', sans-serif;
+	 color:#6f7175;
+width:200px;
+height:auto;
+border:none;
+outline:none;
+
+box-shadow: 0px 0px 3px #8989ff;
+}
+
+#bok{
+position:fixed;
+left:6%;}
+#bokk{
+position:fixed;
+left:6%;}
+
+
+
+
+
+.sub{background-color:6c6c96;
+color:white;
+font-family: 'Electrolize', sans-serif;
+border:none;
+outline:none;
+width:60px;
+border-radius:25px;
+
+}
+
+
+#pend {border:none;
+    position:absolute;
+	padding-top:0px;
+	top:10%;
+	
+left:25%;
+width:74%;
+height:auto;}
+#thd{position:absolute;
+	font-family: 'Tauri', sans-serif;
+	padding-left:14%;
+
+width:30%;
+
+left:30%;
+	border:none;
+	color:#272b30;}
+	#tt tr{
+	font-family: 'Mukta Vaani', sans-serif;
+	
+}
+	#tt{text-align:center;
+		width:100%;
+		padding-top:5%;
+	}
+	#tt tr:nth-child(even){background-color:#eff1ff;}
+	#tt th{background-color:#606482;
+	color:white;
+	font-family: 'Inder', sans-serif;}
+	#stat{
+		border:none;
+		font-size:30px;
+		position:fixed;
+		text-decoration:none;
+		top:-0.2%;
+		left:94.8%;
+		height:5.8%;
+		width:6%;
+		padding-top:0.8%;
+		padding-bottom:0%;
+		padding-left:0.1%;
+		font-family: 'Montserrat', sans-serif;
+	}
+	#stat:link{
+		color:#818ac4;
+		
+		
+	}
+	#stat:hover{
+		background-color:#818ac4;
+		color:#ffffff;
+	}
+	#stat:visited{color:#818ac4;
+	background-color:#ffffff;
+	}
+	#stat:active{
+		background-color:#7078a8;
+		color:#ffffff;
+	}
+	#info{
+		font-size:15px;
+		border:none;
+		position:fixed;
+		bottom:0%;
+		width:300;
+font-family: 'Raleway', sans-serif;
+
+	}
+	
